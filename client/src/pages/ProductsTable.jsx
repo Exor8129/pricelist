@@ -657,7 +657,7 @@ const ProductsTable = () => {
       {/* Search bar */}
       <input
         type="text"
-        placeholder="Search by Brand or Items..."
+        placeholder="Search by Brands.. or Items..."
         value={searchTerm}
         onChange={handleSearchChange}
       />
